@@ -1,3 +1,6 @@
+function doSomething () {
+	
+}
 function ode2joy1 () {
     music.playTone(330, music.beat(BeatFraction.Whole))
     music.playTone(330, music.beat(BeatFraction.Whole))
